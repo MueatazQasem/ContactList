@@ -1,0 +1,34 @@
+[
+  {
+    "accountNumber": "1",
+    "openDate": "2000-01-01",
+    "balance" : "1000",
+    "name": "John",
+    "family": "Smith",
+    "phone": "+5145120000",
+    "sin": "123",
+    "photoFileName": "photo1.png"
+
+  },
+  {
+    "accountNumber": "2",
+    "openDate": "2002-07-15",
+    "balance": "5000",
+    "name": "Jane",
+    "family": "Doe",
+    "phone": "+5145120001",
+    "sin": "456",
+    "photoFileName": "photo2.png"
+  },
+  {
+    "accountNumber": "3",
+    "openDate": "2005-10-20",
+    "balance": "3000",
+    "name": "Robert",
+    "family": "Johnson",
+    "phone": "+5145120002",
+    "sin": "789",
+    "photoFileName": "photo3.png"
+  }
+
+]
